@@ -44,7 +44,7 @@
 1. Запуск тестов: 
   - Файл test_main.py
   - Команда pytest 
-2. Логгирование:
+2. Логирование:
   - Файл logging.conf
   - монтирование в docker-compose
     volumes:  
