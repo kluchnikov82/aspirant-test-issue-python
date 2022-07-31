@@ -47,6 +47,6 @@
 2. Логгирование:
   - Файл logging.conf
   - монтирование в docker-compose
-  - volumes:  
+    volumes:  
        ./src/loging.log:/code/logging.log 
    
