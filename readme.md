@@ -46,6 +46,7 @@
   - Команда pytest 
 2. Логгирование:
   - Файл logging.conf
-  - volumes:
+  - монтирование в docker-compose
+  - volumes:  
        ./src/loging.log:/code/logging.log 
    
