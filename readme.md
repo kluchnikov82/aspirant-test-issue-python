@@ -42,5 +42,10 @@
 
 # Результат выполнения задания
 1. Запуск тестов: 
-  - test_main.py
+  - Файл test_main.py
   - Команда pytest 
+2. Логгирование:
+  - Файл logging.conf
+  - volumes:
+       ./src/loging.log:/code/logging.log 
+   
