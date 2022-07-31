@@ -49,4 +49,7 @@
   - монтирование в docker-compose
     volumes:  
        ./src/loging.log:/code/logging.log 
+ 3. По поводу рефакторинга external_requests.py
+    - либо статический метед для def get_weather_url(city):
+    - либо через отдельную функцию
    
